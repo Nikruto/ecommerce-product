@@ -1,11 +1,11 @@
-# Github user search app made with react.js
+# E-Commerce product page made with react.js
 
 ## Installation
 
 Firstly clone this project with git then install packages with npm
 
 ```bash
-git clone https://github.com/Nikruto/github-user-search.git
+git clone https://github.com/Nikruto/ecommerce-product.git
 npm install
 ```
 
